@@ -39,16 +39,6 @@ app.listen(PORT, () => {
 
 
 	// CÓDIGO PARA ATENDER OS REQUERIMENTOS
-	//								 1  2  3  4  5 
-	// 	let  notas = [10, 8, 6, 5, 3]
-	// //									 1        2         3       4        5 
-	// 	const alunos = ['Lucas', 'Matheus', 'Luis', 'Luan', 'Lino']
-		 
-	// 	if(notas = 10) {
-	// 			console.log('passou')
-	// 	} else if(notas <=9){
-	// 		console.log('reprovado')
-	// 	}
 
 	const readline = require ('readline');
 	const rl = readline.createInterface ({
